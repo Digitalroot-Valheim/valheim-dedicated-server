@@ -1,2 +1,3 @@
-# valheim-dedicated-server
-Valheim Dedicated Server Setup
+# Valheim Dedicated Server Setup
+
+**License for Commercial use is available by contacting me.**
